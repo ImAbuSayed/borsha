@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/borsha/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Borsha](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/borsha/) |
+| **Get License** | [Request Licensing for Borsha](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/borsha/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `8e8ffcb980ca4ca5f85ccf39fba6f00ab83070b1e9be1222131bd961e059cca7` |
 | **Timestamp** | May 27, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

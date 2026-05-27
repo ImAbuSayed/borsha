@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Borsha
+
+This log tracks the cryptographic history and versioning for the song **Borsha** (borsha).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-27T23:59:49.858912 | `v1` | `8e8ffcb980ca4ca5f85ccf39fba6f00ab83070b1e9be1222131bd961e059cca7` | `deef080205af800771441dbc5970e0b210a17b74b36ee816bfd6101fa38cbc1c` | `2026-05-27_borsha-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
