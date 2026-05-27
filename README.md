@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/borsha/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Borsha](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/borsha/) |
+| **Get License** | [Music Rights & Licensing for Borsha](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/borsha/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> মায়াবী এই রাতের বুকে তোমায় আমি চাই
+> নেশার ঘোরে তোমার ছোঁয়ায় নিজেকে হারাই
+> কাছে এসো আরেকটু আজ রাখো হাতে হাত
+> উষ্ণ ঠোঁটের জাদুতে আজ পুড়ুক এ রাত
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
